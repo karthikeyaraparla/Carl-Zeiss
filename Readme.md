@@ -115,12 +115,13 @@ None
 ## Daily Status Update – 21st January, 2026
 
 **What I Have Done:**
-Developing a real-time Food Delivery Application** using OOPS concepts in C#.
+Developing a real-time Food Delivery Application using OOPS concepts in C#.
 
 **What I Will Do Next:**
-Enhance the application and continue practicing advanced OOPS concepts.
+continue practicing advanced OOPS concepts.
 
 **Issues Faced:**
 None
 
 — *Raparla Karthikeya*
+

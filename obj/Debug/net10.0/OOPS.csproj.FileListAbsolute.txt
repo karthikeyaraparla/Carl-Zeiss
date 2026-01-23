@@ -1,0 +1,15 @@
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/obj/Debug/net10.0/OOPS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/obj/Debug/net10.0/OOPS.AssemblyInfoInputs.cache
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/obj/Debug/net10.0/OOPS.AssemblyInfo.cs
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/obj/Debug/net10.0/OOPS.csproj.CoreCompileInputs.cache
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/obj/Debug/net10.0/OOPS.sourcelink.json
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/bin/Debug/net10.0/OOPS
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/bin/Debug/net10.0/OOPS.deps.json
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/bin/Debug/net10.0/OOPS.runtimeconfig.json
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/bin/Debug/net10.0/OOPS.dll
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/bin/Debug/net10.0/OOPS.pdb
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/obj/Debug/net10.0/OOPS.dll
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/obj/Debug/net10.0/refint/OOPS.dll
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/obj/Debug/net10.0/OOPS.pdb
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/obj/Debug/net10.0/OOPS.genruntimeconfig.cache
+/Users/karthikeyaraparla/RiderProjects/Carl-Zeiss/OOPS/obj/Debug/net10.0/ref/OOPS.dll

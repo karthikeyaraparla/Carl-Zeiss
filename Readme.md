@@ -125,3 +125,68 @@ None
 
 — *Raparla Karthikeya*
 
+Daily Status Update – 22nd January, 2026
+
+What I Have Done:
+
+Encapsulation
+
+Inheritance
+
+Polymorphism
+
+Constructors
+
+What I Will Do Next:
+Continue with OOPS.
+
+Issues Faced:
+None
+
+— Raparla Karthikeya
+
+Daily Status Update – 23rd January, 2026
+
+What I Have Done:
+
+Snake and Ladder Simulator
+GitHub: https://github.com/karthikeyaraparla/SnakeandLadder
+
+Object Modeling – Assisted Problems
+https://github.com/karthikeyaraparla/Carl-Zeiss/blob/oops/Objectmodeling.cs
+
+What I Will Do Next:
+Complete remaining Object Modeling problems.
+
+Issues Faced:
+None
+
+— Raparla Karthikeya
+
+Daily Status Update – 24th January, 2026
+
+What I Have Done:
+
+Employee Wage Problem
+GitHub: https://github.com/karthikeyaraparla/Employee-Details/tree/uc10
+
+What I Will Do Next:
+Work on Object Modeling problems and continue Inheritance and Encapsulation.
+
+Issues Faced:
+None
+
+— Raparla Karthikeya
+
+Daily Status Update – 27th January, 2026
+
+What I Have Done:
+Practiced Inheritance and Encapsulation.
+
+What I Will Do Next:
+Revise all OOPS concepts.
+
+Issues Faced:
+None
+
+— Raparla Karthikeya

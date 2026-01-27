@@ -101,3 +101,31 @@ class Hierarchical
         c.Meow();
     }
 }
+//Base keyword
+using System;
+
+namespace MyNamespace;
+
+class animal
+{
+    public animal(string name)
+    {
+        Console.WriteLine("animal: "+ name);
+    }
+}
+
+class dog : animal
+{
+    public dog() : base("German Shepard")
+    {
+        Console.WriteLine("Child constructor");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        dog d = new dog();
+    }
+}

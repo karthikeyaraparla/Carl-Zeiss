@@ -1,67 +1,43 @@
-﻿// using System;
+﻿using System;
 
-// namespace MyNamespace
-// {
-//    // class Car
-//    // {
-//    //    public string carName;
-//    //    public int speed;
-//    //
-//    //    public Car(string carName, int speed)
-//    //    {
-//    //       this.carName = carName;
-//    //       this.speed = speed;
-//    //    }
-//    //
-//    //    public void Display()
-//    //    {
-//    //       Console.WriteLine("carName: "+ carName+", Speed: "+speed);
-//    //    }
-//    //
-//    //    public static void Main(string[] args)
-//    //    {
-//    //       Car c1 = new Car("BMW", 100);
-//    //       c1.Display();
-//    //    }
-//    // }
-   
-   
-//    //Food Delivery App
-//    class foodDelivery
-//    {
-//       public string Name;
-//       public string Location;
-//       public string Item;
 
-//       public foodDelivery(string name, string location, string item)
-//       {
-//          this.Name = name;
-//          this.Location = location;
-//          this.Item = item;
-//       }
+class Parent
+{
+    protected List<int> numbers;
 
-//       public void Display()
-//       {
-//          Console.WriteLine($"name = {Name} location = {Location} item = {Item}");
-//       }
-//       // This is Fixed data
-//       // public static void Main(string[] args)
-//       // {
-//       //    foodDelivery dev1 = new foodDelivery("Murugan", "Chennai", "Chicken");
-//       //    dev1.Display();
-//       // }
-//       public static void Main(string[] Args)
-//       {
-//          foodDelivery[] dev1 = new foodDelivery[2];
-//          dev1[0] = new foodDelivery("Murugan", "Chennai", "Chicken");
-//          dev1[1] = new foodDelivery("Pathayam", "Tambaram", "Fish Grill");
-         
+    public Parent(List<int> numbers)
+    {
+        this.numbers = numbers;
+    }
+    public virtual void Process()
+    {
+        Console.WriteLine("Processing");
+    }
+}
+class NumProcessor : Parent
+{
+    public NumProcessor(List<int> numbers) : base(numbers)
+    {
+    }
 
-//          for (int i = 0; i < dev1.Length; i++)
-//          {
-//             dev1[i].Display();
-//          }
-//       }
-//    }
-   
-// }
+    public override void Process()
+    {
+        var filtered = numbers.Where(n => n >= 0).ToList();
+        var squared = filtered.Select(n => n * n).ToList();
+        squared.Sort();
+
+        foreach (int num in squared)
+        {
+            Console.Write(num + " ");
+        }
+    }
+}
+class Program
+{
+    static void Main()
+    {
+        List<int> inputNums = new List<int> { -4, -1, 0, 3, 10 };
+        NumProcessor processor = new NumProcessor(inputNums);
+        processor.Process();
+    }
+}

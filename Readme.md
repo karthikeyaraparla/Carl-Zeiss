@@ -190,3 +190,34 @@ Issues Faced:
 None
 
 — Raparla Karthikeya
+
+Daily Status Update – 28th January, 2026
+
+What I Have Done:
+
+Solved real-world OOPS problems
+
+Revised OOPS concepts
+
+What I Will Do Next:
+In-depth revision of OOPS and practice more real-world problems.
+
+Issues Faced:
+None
+
+— Raparla Karthikeya
+
+Daily Status Update – 29th January, 2026
+
+What I Have Done:
+Revised OOPS concepts and gave review to Kural Sir.
+GitHub:
+https://github.com/karthikeyaraparla/Carl-Zeiss/blob/oops/Review%202.cs
+
+What I Will Do Next:
+Learn about Composition, Aggregation, and related OOPS concepts.
+
+Issues Faced:
+None
+
+— Raparla Karthikeya

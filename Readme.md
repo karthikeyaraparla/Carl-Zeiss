@@ -217,7 +217,28 @@ https://github.com/karthikeyaraparla/Carl-Zeiss/blob/oops/Review%202.cs
 What I Will Do Next:
 Learn about Composition, Aggregation, and related OOPS concepts.
 
+## Daily Status Update – 30th January, 2026
+
+**What I Have Done:**
+
+* Arrays: Create & Traverse, Insert, Delete, Search, Find Max/Min, Reverse an array
+  GitHub:
+  [https://github.com/karthikeyaraparla/Carl-Zeiss/blob/DSA/DSA/Array.cs](https://github.com/karthikeyaraparla/Carl-Zeiss/blob/DSA/DSA/Array.cs)
+* Singly Linked List: Created a Linked List
+  GitHub:
+  [https://github.com/karthikeyaraparla/Carl-Zeiss/blob/DSA/DSA/LinkedList.cs](https://github.com/karthikeyaraparla/Carl-Zeiss/blob/DSA/DSA/LinkedList.cs)
+
+**What I Will Do Next:**
+Continue with Linked List.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+
 Issues Faced:
 None
 
 — Raparla Karthikeya
+

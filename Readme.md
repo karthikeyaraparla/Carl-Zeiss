@@ -242,3 +242,173 @@ None
 
 — Raparla Karthikeya
 
+## Daily Status Update – 02nd February, 2026
+
+**What I Have Done:**
+Solved problems in Linked List.
+
+**What I Will Do Next:**
+Start Stacks.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 04th February, 2026
+
+**What I Have Done:**
+Solved Linked List and Stack LeetCode problems.
+
+**What I Will Do Next:**
+Queues and HashMap.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 05th February, 2026
+
+**What I Have Done:**
+Studied Sorting Algorithms.
+
+**What I Will Do Next:**
+Revision of all DSA topics.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 06th February, 2026
+
+**What I Have Done:**
+Kural Sir gave scenario-based questions:
+
+1. Test Result System
+2. Sensor Data Processing
+
+**Total Concepts Covered:**
+
+* HashSet
+* Linked List
+* Queue
+* Arrays
+* Stack
+
+**What I Will Do Next:**
+Solve more scenario-based questions.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 07th February, 2026
+
+**What I Have Done:**
+Gave review to Kural Sir and solved scenario problems:
+
+1. Text editor maintains action history as a singly linked list — delete last K nodes
+2. Ranking Intern Performance using Descending Selection Sort
+
+**What I Will Do Next:**
+C# Collections and Streams.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 09th February, 2026
+
+**What I Have Done:**
+
+* Generics: Generic Classes, Generic Methods
+* C# Closures
+* Delegates, Events, Garbage Collection, Dispose
+
+**What I Will Do Next:**
+Collection Framework.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 10th February, 2026 (Review Preparation)
+
+**What I Have Done:**
+Revised all the topics covered in the last three weeks as instructed and prepared for review.
+
+**What I Will Do Next:**
+Attend the review for all three weeks.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 10th February, 2026 (Review Day)
+
+**What I Have Done:**
+Review taken by Chandrashekar Sir. Discussed topics to be covered ahead.
+
+**What I Will Do Next:**
+Line Comparison problem and Collections.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 11th February, 2026
+
+**What I Have Done:**
+
+* Generics: Type Parameters, Classes, Methods
+* C# Closures
+
+**What I Will Do Next:**
+Delegates, Events, Non-Generic Collections.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 12th February, 2026
+
+**What I Have Done:**
+Non-Generic Collections: Stack, Queue, Hashtable, SortedList.
+GitHub:
+https://github.com/karthikeyaraparla/Carl-Zeiss/tree/Collections
+
+**What I Will Do Next:**
+Revise concepts (Delegates, Closures, Garbage Collection, Dispose) and implement the Address Book problem.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+

@@ -1,0 +1,11 @@
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/CustomException/bin/Debug/net8.0/CustomException.deps.json
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/CustomException/bin/Debug/net8.0/CustomException.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/CustomException/bin/Debug/net8.0/CustomException.pdb
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/CustomException/obj/Debug/net8.0/CustomException.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/CustomException/obj/Debug/net8.0/CustomException.AssemblyInfoInputs.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/CustomException/obj/Debug/net8.0/CustomException.AssemblyInfo.cs
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/CustomException/obj/Debug/net8.0/CustomException.csproj.CoreCompileInputs.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/CustomException/obj/Debug/net8.0/CustomException.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/CustomException/obj/Debug/net8.0/refint/CustomException.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/CustomException/obj/Debug/net8.0/CustomException.pdb
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/CustomException/obj/Debug/net8.0/ref/CustomException.dll

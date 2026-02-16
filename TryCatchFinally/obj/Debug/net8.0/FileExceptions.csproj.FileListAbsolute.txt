@@ -1,0 +1,14 @@
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/bin/Debug/net8.0/FileExceptions
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/bin/Debug/net8.0/FileExceptions.deps.json
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/bin/Debug/net8.0/FileExceptions.runtimeconfig.json
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/bin/Debug/net8.0/FileExceptions.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/bin/Debug/net8.0/FileExceptions.pdb
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/obj/Debug/net8.0/FileExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/obj/Debug/net8.0/FileExceptions.AssemblyInfoInputs.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/obj/Debug/net8.0/FileExceptions.AssemblyInfo.cs
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/obj/Debug/net8.0/FileExceptions.csproj.CoreCompileInputs.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/obj/Debug/net8.0/FileExceptions.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/obj/Debug/net8.0/refint/FileExceptions.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/obj/Debug/net8.0/FileExceptions.pdb
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/obj/Debug/net8.0/FileExceptions.genruntimeconfig.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/FileExceptions/obj/Debug/net8.0/ref/FileExceptions.dll

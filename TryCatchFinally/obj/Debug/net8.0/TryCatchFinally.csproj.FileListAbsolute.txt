@@ -1,0 +1,14 @@
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/bin/Debug/net8.0/TryCatchFinally
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/bin/Debug/net8.0/TryCatchFinally.deps.json
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/bin/Debug/net8.0/TryCatchFinally.runtimeconfig.json
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/bin/Debug/net8.0/TryCatchFinally.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/bin/Debug/net8.0/TryCatchFinally.pdb
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.AssemblyInfoInputs.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.AssemblyInfo.cs
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.csproj.CoreCompileInputs.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/obj/Debug/net8.0/refint/TryCatchFinally.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.pdb
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/obj/Debug/net8.0/TryCatchFinally.genruntimeconfig.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatchFinally/obj/Debug/net8.0/ref/TryCatchFinally.dll

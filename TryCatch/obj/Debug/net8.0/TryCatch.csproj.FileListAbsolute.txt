@@ -1,0 +1,11 @@
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatch/bin/Debug/net8.0/TryCatch.deps.json
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatch/bin/Debug/net8.0/TryCatch.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatch/bin/Debug/net8.0/TryCatch.pdb
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatch/obj/Debug/net8.0/TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatch/obj/Debug/net8.0/TryCatch.AssemblyInfoInputs.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatch/obj/Debug/net8.0/TryCatch.AssemblyInfo.cs
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatch/obj/Debug/net8.0/TryCatch.csproj.CoreCompileInputs.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatch/obj/Debug/net8.0/TryCatch.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatch/obj/Debug/net8.0/refint/TryCatch.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatch/obj/Debug/net8.0/TryCatch.pdb
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/TryCatch/obj/Debug/net8.0/ref/TryCatch.dll

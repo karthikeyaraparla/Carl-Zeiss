@@ -411,4 +411,93 @@ None
 
 — *Raparla Karthikeya*
 
+## Daily Status Update – 13th February, 2026
+
+**What I Have Done:**
+Delegates, Garbage Collection, and Events.
+
+**What I Will Do Next:**
+Complete remaining Use Cases of Address Book problem and revise topics for review.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 14th February, 2026
+
+**What I Have Done:**
+Gave review to Chandrashekar Sir.
+GitHub:
+https://github.com/karthikeyaraparla/Carl-Zeiss/tree/Collections
+
+**What I Will Do Next:**
+Exceptions and I/O Streams.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 16th February, 2026
+
+**What I Have Done:**
+**Exceptions:**
+
+* Error vs Exception
+* Types of Exceptions
+* Exception Handling
+* Implementation: Try-Catch-Finally, Multiple Catch, Custom Exception, Exception Filtering
+
+**What I Will Do Next:**
+I/O Streams.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 17th February, 2026
+
+**What I Have Done:**
+**I/O Streams:**
+
+* Stream
+* FileStream
+* MemoryStream
+* BufferedStream
+* StreamReader / StreamWriter
+
+**What I Will Do Next:**
+Serialization (CSV, JSON), FileInfo, Directory / DirectoryInfo, and Path class.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 18th February, 2026
+
+**What I Have Done:**
+Implemented: Directory, DirectoryInfo, FileStream, StreamWriter, StreamReader, CSV, JSON.
+Started learning Regex.
+GitHub:
+https://github.com/karthikeyaraparla/Carl-Zeiss/tree/CSharp-adv/IO
+
+**What I Will Do Next:**
+Regex implementation.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
 

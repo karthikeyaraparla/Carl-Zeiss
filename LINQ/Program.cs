@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using LINQ.Models;
@@ -70,3 +70,4 @@ public class Linq
         Console.WriteLine("Avg: " + products.Average(p => p.price));
     }
 }
+

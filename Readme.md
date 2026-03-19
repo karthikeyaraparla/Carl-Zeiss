@@ -500,4 +500,322 @@ None
 
 — *Raparla Karthikeya*
 
+## Daily Status Update – 19th February, 2026
+
+**What I Have Done:**
+Learned and implemented Regex concepts.
+
+**What I Will Do Next:**
+Start LINQ.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 23rd February, 2026 (Forenoon)
+
+**What I Have Done:**
+**LINQ Fundamentals:**
+
+* Need for LINQ
+* How LINQ works
+* Lambda expressions
+* Filtering operators
+
+**What I Will Do Next:**
+Grouping, Sorting, Aggregation, Joins.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 23rd February, 2026
+
+**What I Have Done:**
+**LINQ Concepts Implemented:**
+
+* Need for LINQ
+* How LINQ works
+* Lambda expressions
+* Filtering operators
+* Grouping
+* Sorting
+* Aggregation
+* Joins
+
+GitHub:
+https://github.com/karthikeyaraparla/Carl-Zeiss/tree/CSharp-adv/LINQ
+
+**What I Will Do Next:**
+Annotations.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 25th February, 2026
+
+**What I Have Done:**
+**Attributes Implementation:**
+
+* Built-in: Obsolete, Serializable, Conditional
+* Custom Attributes: AttributeUsage, AttributeTargets, AllowMultiple
+* Solved LINQ problems given by Chandrashekar Sir
+
+**What I Will Do Next:**
+Continue with Attributes.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 26th February, 2026
+
+**What I Have Done:**
+**Attributes:**
+
+* Built-in: Obsolete, Serializable, Conditional, CLSCompliant
+* Custom: AttributeUsage, AttributeTargets, AllowMultiple
+* Data Annotations: Required, Range, StringLength, EmailAddress
+* Custom Validation Attribute
+
+**Reflection:**
+
+* Read attributes at runtime
+* Checked Serializable and custom attributes
+
+**What I Will Do Next:**
+Advanced Reflection and revise LINQ.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 27th February, 2026
+
+**What I Have Done:**
+
+* Studied Unit Testing concepts (AAA Pattern, Types, Assertions, Isolation)
+* Learned MSTest framework
+* Understood Test Lifecycle & internal working using Reflection
+* Introduction to TDD (Red-Green-Refactor)
+
+**What I Will Do Next:**
+
+* MSTest implementation
+* Write unit tests with exception handling
+* Practice TDD and analyze code coverage
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 02nd March, 2026
+
+**What I Have Done:**
+Ordering system test cases and MSTest revision.
+
+**What I Will Do Next:**
+Revise MSTest, LINQ, Attributes and solve problems.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 03rd March, 2026
+
+**What I Have Done:**
+Revised C# Attributes:
+
+* Built-in Attributes
+* Custom Attributes
+* Data Annotations
+* Reflection
+* Assembly Attributes
+* Complete workflow
+
+**What I Will Do Next:**
+Revise LINQ concepts and implement problems.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 05th March, 2026
+
+**What I Have Done:**
+Started Design Principles and Patterns.
+Implemented Singleton and Factory patterns.
+
+**What I Will Do Next:**
+Continue remaining design patterns and principles.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 06th March, 2026
+
+**What I Have Done:**
+**Creational Design Patterns:**
+
+* Singleton
+* Factory
+* Abstract Factory
+* Builder
+* Prototype
+
+**Structural Design Patterns:**
+
+* Adapter
+* Facade
+
+**What I Will Do Next:**
+Continue remaining patterns and principles.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 09th March, 2026
+
+**What I Have Done:**
+Gave review to Chandrashekar Sir.
+
+GitHub:
+https://github.com/karthikeyaraparla/Carl-Zeiss/tree/CSharp-adv/LibraryManagement
+
+**What I Will Do Next:**
+Start DBMS.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 10th March, 2026
+
+**What I Have Done:**
+
+* Database Programming basics
+* Fundamental SQL queries
+* SQL Server & SSMS architecture and working
+
+**What I Will Do Next:**
+Continue SQL practice and start advanced SQL topics.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 12th March, 2026
+
+**What I Have Done:**
+
+* HAVING and advanced aggregates
+* Subqueries and joins
+* Stored Procedures
+
+**What I Will Do Next:**
+Views and Triggers.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 16th March, 2026
+
+**What I Have Done:**
+
+* Installed MongoDB
+* Learned MongoDB fundamentals and implementation
+
+**What I Will Do Next:**
+MongoDB relationships and MongoDB Atlas.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 17th March, 2026
+
+**What I Have Done:**
+
+* Advanced Query Operators
+* Utility Commands
+* Aggregation (Advanced)
+* Arrays in MongoDB
+* Transactions basics
+
+**What I Will Do Next:**
+Advanced MongoDB implementation and learn Mongoose & Atlas.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## Daily Status Update – 18th March, 2026
+
+**What I Have Done:**
+
+* MongoDB implementation
+* Mongoose and Atlas
+* Started Multithreading fundamentals
+* ThreadPool
+
+**What I Will Do Next:**
+
+* Task Parallel Library
+* Async Programming
+* Thread Synchronization
+* Concurrent Collections
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
 

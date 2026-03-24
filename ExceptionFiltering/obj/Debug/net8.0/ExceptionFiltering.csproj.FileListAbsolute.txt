@@ -1,0 +1,11 @@
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/ExceptionFiltering/bin/Debug/net8.0/ExceptionFiltering.deps.json
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/ExceptionFiltering/bin/Debug/net8.0/ExceptionFiltering.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/ExceptionFiltering/bin/Debug/net8.0/ExceptionFiltering.pdb
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/ExceptionFiltering/obj/Debug/net8.0/ExceptionFiltering.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/ExceptionFiltering/obj/Debug/net8.0/ExceptionFiltering.AssemblyInfoInputs.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/ExceptionFiltering/obj/Debug/net8.0/ExceptionFiltering.AssemblyInfo.cs
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/ExceptionFiltering/obj/Debug/net8.0/ExceptionFiltering.csproj.CoreCompileInputs.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/ExceptionFiltering/obj/Debug/net8.0/ExceptionFiltering.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/ExceptionFiltering/obj/Debug/net8.0/refint/ExceptionFiltering.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/ExceptionFiltering/obj/Debug/net8.0/ExceptionFiltering.pdb
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/ExceptionFiltering/obj/Debug/net8.0/ref/ExceptionFiltering.dll

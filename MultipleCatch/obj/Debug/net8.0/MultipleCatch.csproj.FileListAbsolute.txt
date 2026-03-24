@@ -1,0 +1,11 @@
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/MultipleCatch/bin/Debug/net8.0/MultipleCatch.deps.json
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/MultipleCatch/bin/Debug/net8.0/MultipleCatch.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/MultipleCatch/bin/Debug/net8.0/MultipleCatch.pdb
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/MultipleCatch/obj/Debug/net8.0/MultipleCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/MultipleCatch/obj/Debug/net8.0/MultipleCatch.AssemblyInfoInputs.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/MultipleCatch/obj/Debug/net8.0/MultipleCatch.AssemblyInfo.cs
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/MultipleCatch/obj/Debug/net8.0/MultipleCatch.csproj.CoreCompileInputs.cache
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/MultipleCatch/obj/Debug/net8.0/MultipleCatch.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/MultipleCatch/obj/Debug/net8.0/refint/MultipleCatch.dll
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/MultipleCatch/obj/Debug/net8.0/MultipleCatch.pdb
+/Users/karthikeyaraparla/RiderProjects/FileExceptions/MultipleCatch/obj/Debug/net8.0/ref/MultipleCatch.dll

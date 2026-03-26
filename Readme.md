@@ -2,6 +2,8 @@
 
 This README contains my **daily status updates** during the BridgeLabz training period.
 
+> Note: I have organized my work into separate branches based on topics and implementations.  
+> Please explore the branches of this repository to review my work in detail.
 ---
 
 ## 09th January, 2026

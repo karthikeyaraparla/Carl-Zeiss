@@ -4,7 +4,7 @@ This README contains my **daily status updates** during the BridgeLabz training 
 
 ---
 
-## Daily Status Update – 09th January, 2026
+## 09th January, 2026
 
 **What I Have Done:**
 Git and GitHub – 80% completed.
@@ -19,10 +19,10 @@ None
 
 ---
 
-## Daily Status Update – 10th January, 2026
+## 10th January, 2026
 
 **What I Have Done:**
-Completed Git and GitHub, completed Linux basics, and started C# programming basics.
+Completed Git and GitHub, Linux basics, and started C# programming basics.
 
 **What I Will Do Next:**
 Continue C# basics.
@@ -34,10 +34,10 @@ None
 
 ---
 
-## Daily Status Update – 14th January, 2026
+## 14th January, 2026
 
 **What I Have Done:**
-Revised Git and Linux commands, C# basics, and related documentation.
+Revised Git, Linux, and C# basics.
 
 **What I Will Do Next:**
 Learn C# in depth.
@@ -45,777 +45,655 @@ Learn C# in depth.
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 16th January, 2026
+## 16th January, 2026
 
 **What I Have Done:**
-Solved pattern problems in C# and completed GitHub repository task.
+Pattern problems in C# and GitHub task.
+https://github.com/karthikeyaraparla/billing-system
 
 **What I Will Do Next:**
-Practice materials shared on Git, Linux, and C#.
+Practice more.
 
 **Issues Faced:**
 None
 
-**Task Repository:**
-[https://github.com/karthikeyaraparla/billing-system](https://github.com/karthikeyaraparla/billing-system)
-
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 17th January, 2026
+## 17th January, 2026
 
 **What I Have Done:**
-Submitted C# programming elements assignment and learned C# control flows.
-
-**What I Plan To Do Next:**
-Complete C# control flows assignment.
-
-**Issues Faced:**
-None
-
-— *Raparla Karthikeya*
-
----
-
-## Daily Status Update – 19th January, 2026
-
-**What I Have Done:**
-Completed C# control flows assignment and revised Linux commands.
-
-**What I Plan To Do Next:**
-Learn Arrays, Strings, and Methods in C#.
-
-**Issues Faced:**
-None
-
-— *Raparla Karthikeya*
-
----
-
-## Daily Status Update – 20th January, 2026
-
-**What I Have Done:**
-Studied OOPS fundamentals.
+C# programming elements and control flows.
 
 **What I Will Do Next:**
-Continue with OOPS concepts.
+Control flow assignment.
 
 **Issues Faced:**
 None
-
-— *Raparla Karthikeya*
 
 ---
 
-## Daily Status Update – 21st January, 2026
+## 19th January, 2026
 
 **What I Have Done:**
-Developing a real-time Food Delivery Application using OOPS concepts in C#.
+Control flows and Linux revision.
 
 **What I Will Do Next:**
-continue practicing advanced OOPS concepts.
+Arrays, Strings, Methods.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
+---
 
-Daily Status Update – 22nd January, 2026
+## 20th January, 2026
 
-What I Have Done:
+**What I Have Done:**
+OOPS fundamentals.
 
-Encapsulation
+**What I Will Do Next:**
+Continue OOPS.
 
-Inheritance
-
-Polymorphism
-
-Constructors
-
-What I Will Do Next:
-Continue with OOPS.
-
-Issues Faced:
+**Issues Faced:**
 None
 
-— Raparla Karthikeya
+---
 
-Daily Status Update – 23rd January, 2026
+## 21st January, 2026
 
-What I Have Done:
+**What I Have Done:**
+Real-time Food Delivery App using OOPS.
 
-Snake and Ladder Simulator
-GitHub: https://github.com/karthikeyaraparla/SnakeandLadder
+**What I Will Do Next:**
+Advanced OOPS.
 
-Object Modeling – Assisted Problems
+**Issues Faced:**
+None
+
+---
+
+## 22nd January, 2026
+
+**What I Have Done:**
+Encapsulation, Inheritance, Polymorphism, Constructors.
+
+**What I Will Do Next:**
+Continue OOPS.
+
+**Issues Faced:**
+None
+
+---
+
+## 23rd January, 2026
+
+**What I Have Done:**
+Snake and Ladder + Object Modeling.
+https://github.com/karthikeyaraparla/SnakeandLadder
 https://github.com/karthikeyaraparla/Carl-Zeiss/blob/oops/Objectmodeling.cs
 
-What I Will Do Next:
-Complete remaining Object Modeling problems.
+**What I Will Do Next:**
+Remaining Object Modeling.
 
-Issues Faced:
+**Issues Faced:**
 None
 
-— Raparla Karthikeya
+---
 
-Daily Status Update – 24th January, 2026
+## 24th January, 2026
 
-What I Have Done:
+**What I Have Done:**
+Employee Wage.
+https://github.com/karthikeyaraparla/Employee-Details/tree/uc10
 
-Employee Wage Problem
-GitHub: https://github.com/karthikeyaraparla/Employee-Details/tree/uc10
+**What I Will Do Next:**
+Object Modeling + OOPS.
 
-What I Will Do Next:
-Work on Object Modeling problems and continue Inheritance and Encapsulation.
-
-Issues Faced:
+**Issues Faced:**
 None
 
-— Raparla Karthikeya
+---
 
-Daily Status Update – 27th January, 2026
+## 27th January, 2026
 
-What I Have Done:
-Practiced Inheritance and Encapsulation.
+**What I Have Done:**
+Inheritance & Encapsulation.
 
-What I Will Do Next:
-Revise all OOPS concepts.
+**What I Will Do Next:**
+Revise OOPS.
 
-Issues Faced:
+**Issues Faced:**
 None
 
-— Raparla Karthikeya
+---
 
-Daily Status Update – 28th January, 2026
+## 28th January, 2026
 
-What I Have Done:
+**What I Have Done:**
+Real-world OOPS problems + revision.
 
-Solved real-world OOPS problems
+**What I Will Do Next:**
+Deep revision.
 
-Revised OOPS concepts
-
-What I Will Do Next:
-In-depth revision of OOPS and practice more real-world problems.
-
-Issues Faced:
+**Issues Faced:**
 None
 
-— Raparla Karthikeya
+---
 
-Daily Status Update – 29th January, 2026
+## 29th January, 2026
 
-What I Have Done:
-Revised OOPS concepts and gave review to Kural Sir.
-GitHub:
+**What I Have Done:**
+Review + OOPS revision.
 https://github.com/karthikeyaraparla/Carl-Zeiss/blob/oops/Review%202.cs
 
-What I Will Do Next:
-Learn about Composition, Aggregation, and related OOPS concepts.
-
-## Daily Status Update – 30th January, 2026
-
-**What I Have Done:**
-
-* Arrays: Create & Traverse, Insert, Delete, Search, Find Max/Min, Reverse an array
-  GitHub:
-  [https://github.com/karthikeyaraparla/Carl-Zeiss/blob/DSA/DSA/Array.cs](https://github.com/karthikeyaraparla/Carl-Zeiss/blob/DSA/DSA/Array.cs)
-* Singly Linked List: Created a Linked List
-  GitHub:
-  [https://github.com/karthikeyaraparla/Carl-Zeiss/blob/DSA/DSA/LinkedList.cs](https://github.com/karthikeyaraparla/Carl-Zeiss/blob/DSA/DSA/LinkedList.cs)
-
 **What I Will Do Next:**
-Continue with Linked List.
+Composition, Aggregation.
 
 **Issues Faced:**
 None
-
-— *Raparla Karthikeya*
-
-
-Issues Faced:
-None
-
-— Raparla Karthikeya
-
-## Daily Status Update – 02nd February, 2026
-
-**What I Have Done:**
-Solved problems in Linked List.
-
-**What I Will Do Next:**
-Start Stacks.
-
-**Issues Faced:**
-None
-
-— *Raparla Karthikeya*
 
 ---
 
-## Daily Status Update – 04th February, 2026
+## 30th January, 2026
 
 **What I Have Done:**
-Solved Linked List and Stack LeetCode problems.
+Arrays + Linked List basics.
+https://github.com/karthikeyaraparla/Carl-Zeiss/blob/DSA/DSA/Array.cs
+https://github.com/karthikeyaraparla/Carl-Zeiss/blob/DSA/DSA/LinkedList.cs
 
 **What I Will Do Next:**
-Queues and HashMap.
+Linked List.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 05th February, 2026
+## 31st January, 2026
 
 **What I Have Done:**
-Studied Sorting Algorithms.
+Linked List operations: Traverse, Insert, Delete, Search, Count, Reverse.
 
 **What I Will Do Next:**
-Revision of all DSA topics.
+Doubly Linked List.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 06th February, 2026
+## 02nd February, 2026
 
 **What I Have Done:**
-Kural Sir gave scenario-based questions:
-
-1. Test Result System
-2. Sensor Data Processing
-
-**Total Concepts Covered:**
-
-* HashSet
-* Linked List
-* Queue
-* Arrays
-* Stack
+Linked List problems.
 
 **What I Will Do Next:**
-Solve more scenario-based questions.
+Stacks.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 07th February, 2026
+## 04th February, 2026
 
 **What I Have Done:**
-Gave review to Kural Sir and solved scenario problems:
-
-1. Text editor maintains action history as a singly linked list — delete last K nodes
-2. Ranking Intern Performance using Descending Selection Sort
+Linked List + Stack LeetCode.
 
 **What I Will Do Next:**
-C# Collections and Streams.
+Queue, HashMap.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 09th February, 2026
+## 05th February, 2026
 
 **What I Have Done:**
-
-* Generics: Generic Classes, Generic Methods
-* C# Closures
-* Delegates, Events, Garbage Collection, Dispose
+Sorting algorithms.
 
 **What I Will Do Next:**
-Collection Framework.
+Revision.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 10th February, 2026 (Review Preparation)
+## 06th February, 2026
 
 **What I Have Done:**
-Revised all the topics covered in the last three weeks as instructed and prepared for review.
+Scenario problems (Test System, Sensor Processing).
+Concepts: HashSet, Queue, Stack, Arrays, Linked List.
 
 **What I Will Do Next:**
-Attend the review for all three weeks.
+More scenarios.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 10th February, 2026 (Review Day)
+## 07th February, 2026
 
 **What I Have Done:**
-Review taken by Chandrashekar Sir. Discussed topics to be covered ahead.
+Review + scenario problems.
 
 **What I Will Do Next:**
-Line Comparison problem and Collections.
+Collections, Streams.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 11th February, 2026
+## 09th February, 2026
 
 **What I Have Done:**
-
-* Generics: Type Parameters, Classes, Methods
-* C# Closures
+Generics, Closures, Delegates, Events, GC.
 
 **What I Will Do Next:**
-Delegates, Events, Non-Generic Collections.
+Collections.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
+---
+
+## 10th February, 2026
+
+**What I Have Done:**
+Revision + Review.
+
+**What I Will Do Next:**
+Collections.
+
+**Issues Faced:**
+None
 
 ---
 
-## Daily Status Update – 12th February, 2026
+## 11th February, 2026
 
 **What I Have Done:**
-Non-Generic Collections: Stack, Queue, Hashtable, SortedList.
-GitHub:
+Generics + Closures.
+
+**What I Will Do Next:**
+Delegates, Events.
+
+**Issues Faced:**
+None
+
+---
+
+## 12th February, 2026
+
+**What I Have Done:**
+Collections.
 https://github.com/karthikeyaraparla/Carl-Zeiss/tree/Collections
 
 **What I Will Do Next:**
-Revise concepts (Delegates, Closures, Garbage Collection, Dispose) and implement the Address Book problem.
+Address Book.
 
 **Issues Faced:**
 None
-
-— *Raparla Karthikeya*
-
-## Daily Status Update – 13th February, 2026
-
-**What I Have Done:**
-Delegates, Garbage Collection, and Events.
-
-**What I Will Do Next:**
-Complete remaining Use Cases of Address Book problem and revise topics for review.
-
-**Issues Faced:**
-None
-
-— *Raparla Karthikeya*
 
 ---
 
-## Daily Status Update – 14th February, 2026
+## 13th February, 2026
 
 **What I Have Done:**
-Gave review to Chandrashekar Sir.
-GitHub:
+Delegates, Events, GC.
+
+**What I Will Do Next:**
+Address Book.
+
+**Issues Faced:**
+None
+
+---
+
+## 14th February, 2026
+
+**What I Have Done:**
+Review.
 https://github.com/karthikeyaraparla/Carl-Zeiss/tree/Collections
 
 **What I Will Do Next:**
-Exceptions and I/O Streams.
+Exceptions.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
+---
+
+## 16th February, 2026
+
+**What I Have Done:**
+Exceptions (TCF, custom, filtering).
+
+**What I Will Do Next:**
+I/O.
+
+**Issues Faced:**
+None
 
 ---
 
-## Daily Status Update – 16th February, 2026
+## 17th February, 2026
 
 **What I Have Done:**
-**Exceptions:**
-
-* Error vs Exception
-* Types of Exceptions
-* Exception Handling
-* Implementation: Try-Catch-Finally, Multiple Catch, Custom Exception, Exception Filtering
-
-**What I Will Do Next:**
 I/O Streams.
 
-**Issues Faced:**
-None
-
-— *Raparla Karthikeya*
-
----
-
-## Daily Status Update – 17th February, 2026
-
-**What I Have Done:**
-**I/O Streams:**
-
-* Stream
-* FileStream
-* MemoryStream
-* BufferedStream
-* StreamReader / StreamWriter
-
 **What I Will Do Next:**
-Serialization (CSV, JSON), FileInfo, Directory / DirectoryInfo, and Path class.
+Serialization.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 18th February, 2026
+## 18th February, 2026
 
 **What I Have Done:**
-Implemented: Directory, DirectoryInfo, FileStream, StreamWriter, StreamReader, CSV, JSON.
-Started learning Regex.
-GitHub:
+File handling + CSV, JSON + Regex start.
 https://github.com/karthikeyaraparla/Carl-Zeiss/tree/CSharp-adv/IO
 
 **What I Will Do Next:**
+Regex.
+
+**Issues Faced:**
+None
+
+---
+
+## 19th February, 2026
+
+**What I Have Done:**
 Regex implementation.
 
-**Issues Faced:**
-None
-
-— *Raparla Karthikeya*
-
-## Daily Status Update – 19th February, 2026
-
-**What I Have Done:**
-Learned and implemented Regex concepts.
-
 **What I Will Do Next:**
-Start LINQ.
+LINQ.
 
 **Issues Faced:**
 None
-
-— *Raparla Karthikeya*
 
 ---
 
-## Daily Status Update – 23rd February, 2026 (Forenoon)
+## 23rd February, 2026
 
 **What I Have Done:**
-**LINQ Fundamentals:**
-
-* Need for LINQ
-* How LINQ works
-* Lambda expressions
-* Filtering operators
-
-**What I Will Do Next:**
-Grouping, Sorting, Aggregation, Joins.
-
-**Issues Faced:**
-None
-
-— *Raparla Karthikeya*
-
----
-
-## Daily Status Update – 23rd February, 2026
-
-**What I Have Done:**
-**LINQ Concepts Implemented:**
-
-* Need for LINQ
-* How LINQ works
-* Lambda expressions
-* Filtering operators
-* Grouping
-* Sorting
-* Aggregation
-* Joins
-
-GitHub:
+LINQ fundamentals + implementation.
 https://github.com/karthikeyaraparla/Carl-Zeiss/tree/CSharp-adv/LINQ
 
 **What I Will Do Next:**
-Annotations.
+Attributes.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 25th February, 2026
+## 25th February, 2026
 
 **What I Have Done:**
-**Attributes Implementation:**
-
-* Built-in: Obsolete, Serializable, Conditional
-* Custom Attributes: AttributeUsage, AttributeTargets, AllowMultiple
-* Solved LINQ problems given by Chandrashekar Sir
+Attributes + LINQ problems.
 
 **What I Will Do Next:**
-Continue with Attributes.
+Continue Attributes.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 26th February, 2026
+## 26th February, 2026
 
 **What I Have Done:**
-**Attributes:**
-
-* Built-in: Obsolete, Serializable, Conditional, CLSCompliant
-* Custom: AttributeUsage, AttributeTargets, AllowMultiple
-* Data Annotations: Required, Range, StringLength, EmailAddress
-* Custom Validation Attribute
-
-**Reflection:**
-
-* Read attributes at runtime
-* Checked Serializable and custom attributes
+Attributes + Reflection.
 
 **What I Will Do Next:**
-Advanced Reflection and revise LINQ.
+Advanced Reflection.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 27th February, 2026
+## 27th February, 2026
 
 **What I Have Done:**
-
-* Studied Unit Testing concepts (AAA Pattern, Types, Assertions, Isolation)
-* Learned MSTest framework
-* Understood Test Lifecycle & internal working using Reflection
-* Introduction to TDD (Red-Green-Refactor)
+Unit Testing, MSTest, TDD.
 
 **What I Will Do Next:**
-
-* MSTest implementation
-* Write unit tests with exception handling
-* Practice TDD and analyze code coverage
+MSTest implementation.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 02nd March, 2026
+## 02nd March, 2026
 
 **What I Have Done:**
-Ordering system test cases and MSTest revision.
+Test cases + MSTest.
 
 **What I Will Do Next:**
-Revise MSTest, LINQ, Attributes and solve problems.
+Revision.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 03rd March, 2026
+## 03rd March, 2026
 
 **What I Have Done:**
-Revised C# Attributes:
-
-* Built-in Attributes
-* Custom Attributes
-* Data Annotations
-* Reflection
-* Assembly Attributes
-* Complete workflow
+Attributes full revision.
 
 **What I Will Do Next:**
-Revise LINQ concepts and implement problems.
+LINQ problems.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 05th March, 2026
+## 05th March, 2026
 
 **What I Have Done:**
-Started Design Principles and Patterns.
-Implemented Singleton and Factory patterns.
+Singleton, Factory.
 
 **What I Will Do Next:**
-Continue remaining design patterns and principles.
+More patterns.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 06th March, 2026
+## 06th March, 2026
 
 **What I Have Done:**
-**Creational Design Patterns:**
-
-* Singleton
-* Factory
-* Abstract Factory
-* Builder
-* Prototype
-
-**Structural Design Patterns:**
-
-* Adapter
-* Facade
+Design Patterns (Creational + Structural).
 
 **What I Will Do Next:**
-Continue remaining patterns and principles.
+Continue patterns.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 09th March, 2026
+## 09th March, 2026
 
 **What I Have Done:**
-Gave review to Chandrashekar Sir.
-
-GitHub:
+Review.
 https://github.com/karthikeyaraparla/Carl-Zeiss/tree/CSharp-adv/LibraryManagement
 
 **What I Will Do Next:**
-Start DBMS.
+DBMS.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 10th March, 2026
+## 10th March, 2026
 
 **What I Have Done:**
-
-* Database Programming basics
-* Fundamental SQL queries
-* SQL Server & SSMS architecture and working
+SQL basics.
 
 **What I Will Do Next:**
-Continue SQL practice and start advanced SQL topics.
+Advanced SQL.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 12th March, 2026
+## 12th March, 2026
 
 **What I Have Done:**
-
-* HAVING and advanced aggregates
-* Subqueries and joins
-* Stored Procedures
+Joins, SP.
 
 **What I Will Do Next:**
-Views and Triggers.
+Views, Triggers.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 16th March, 2026
+## 16th March, 2026
 
 **What I Have Done:**
-
-* Installed MongoDB
-* Learned MongoDB fundamentals and implementation
+MongoDB basics.
 
 **What I Will Do Next:**
-MongoDB relationships and MongoDB Atlas.
+Advanced MongoDB.
 
 **Issues Faced:**
 None
 
-— *Raparla Karthikeya*
-
 ---
 
-## Daily Status Update – 17th March, 2026
+## 17th March, 2026
 
 **What I Have Done:**
-
-* Advanced Query Operators
-* Utility Commands
-* Aggregation (Advanced)
-* Arrays in MongoDB
-* Transactions basics
+Advanced MongoDB.
 
 **What I Will Do Next:**
-Advanced MongoDB implementation and learn Mongoose & Atlas.
+Mongoose.
+
+**Issues Faced:**
+None
+
+---
+
+## 18th March, 2026
+
+**What I Have Done:**
+MongoDB + Multithreading start.
+
+**What I Will Do Next:**
+Async, TPL.
 
 **Issues Faced:**
 None
 
 — *Raparla Karthikeya*
-
----
-
-## Daily Status Update – 18th March, 2026
+## 20th March, 2026
 
 **What I Have Done:**
 
-* MongoDB implementation
-* Mongoose and Atlas
-* Started Multithreading fundamentals
+* Company Interaction
 * ThreadPool
+* Started Task Parallel Library (TPL)
 
 **What I Will Do Next:**
-
-* Task Parallel Library
-* Async Programming
-* Thread Synchronization
-* Concurrent Collections
+Continue Multithreading.
 
 **Issues Faced:**
 None
 
 — *Raparla Karthikeya*
 
+---
+
+## 21st March, 2026
+
+**What I Have Done:**
+
+* Multitasking
+* Process / Threads
+* Thread Class in C#
+* Multithreading concepts
+* Key features of Multithreading
+* C# Thread Lifecycle and States
+* Task Parallel Library (TPL)
+
+**What I Will Do Next:**
+Async, Await and remaining topics.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## 23rd March, 2026
+
+**What I Have Done:**
+
+* Parallel Programming
+* Cancellation Handling
+* Deadlocks
+* Background Processing
+* Exception Handling in Multithreading
+* Implemented Bank Account problem using Multithreading
+
+**What I Will Do Next:**
+Revise Multithreading concepts and implement real-world scenarios.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## 24th March, 2026
+
+**What I Have Done:**
+
+* Gave Review 9 to Kural Sir
+* Started ORM / Dapper
+
+**What I Will Do Next:**
+Finish Dapper and KEDA concepts and implement Dapper solutions.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## 25th March, 2026
+
+**What I Have Done:**
+
+* Completed Dapper and KEDA concepts
+* Implemented Dapper (Query method)
+
+**What I Will Do Next:**
+Continue remaining Dapper methods.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*

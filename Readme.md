@@ -2,7 +2,7 @@
 
 This README contains my **daily status updates** during the BridgeLabz training period.
 
-> ⚡ Note: This repository is structured with multiple branches, each representing different topics and implementations covered during the training.  
+> Note: This repository is structured with multiple branches, each representing different topics and implementations covered during the training.  
 > Kindly check the branches section to explore my work in detail.
 ---
 

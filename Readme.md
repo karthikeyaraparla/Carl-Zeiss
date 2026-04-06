@@ -803,3 +803,52 @@ Complete remaining Fundoo endpoints.
 None
 
 — *Raparla Karthikeya*
+
+## 03rd April, 2026
+
+**What I Have Done:**
+
+* Implemented **Label** entity in Fundoo project
+* Created corresponding database structure and endpoints
+
+**What I Will Do Next:**
+Implement **Authentication and Authorization using JWT Token**.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+## 04th April, 2026
+
+**What I Have Done:**
+
+* Implemented **SMTP Email Service** for sending email after user registration
+
+**What I Will Do Next:**
+Continue Fundoo project implementation.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## 06th April, 2026
+
+**What I Have Done:**
+
+* Implemented **Collaborator** and **Reminder** entities
+* Created database tables and relationships
+* Completed corresponding API endpoints
+* Finalized the **Fundoo Project implementation**
+
+**What I Will Do Next:**
+Revise the entire project and all concepts.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+

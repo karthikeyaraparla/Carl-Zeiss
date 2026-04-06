@@ -699,3 +699,107 @@ Continue remaining Dapper methods.
 None
 
 — *Raparla Karthikeya*
+
+## 26th March, 2026
+
+**What I Have Done:**
+
+* Completed implementation of Dapper methods
+* Started Web APIs
+
+**What I Will Do Next:**
+Continue API concepts.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## 28th March, 2026
+
+**What I Have Done:**
+
+* Controllers and Action Methods
+* Routing
+* Request and Response structure
+* Implemented all HTTP CRUD operations in Student API
+
+**What I Will Do Next:**
+Dependency Injection, Reverse Proxy, CORS.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## 30th March, 2026
+
+**What I Have Done:**
+
+* Theory: DTO vs Model vs Controller
+* Dependency Injection, CORS, Reverse Proxy
+* Hashing and HttpClient
+* Added modular concepts in Student API
+* Started Employee API Project
+
+**What I Will Do Next:**
+Continue Employee API project.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## 31st March, 2026
+
+**What I Have Done:**
+
+* Implemented proper modular architecture in Employee API project
+
+**What I Will Do Next:**
+Continue implementations and start Fundoo project.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## 01st April, 2026
+
+**What I Have Done:**
+
+* Started Fundoo project implementation
+* Learned and applied layered architecture
+
+**What I Will Do Next:**
+Continue Fundoo project (database and business layer).
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*
+
+---
+
+## 02nd April, 2026
+
+**What I Have Done:**
+
+* Implemented CRUD endpoints for Notes
+* Added authentication endpoints
+
+**What I Will Do Next:**
+Complete remaining Fundoo endpoints.
+
+**Issues Faced:**
+None
+
+— *Raparla Karthikeya*

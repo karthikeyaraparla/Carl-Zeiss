@@ -1,0 +1,41 @@
+@StudentCourseAPIProject_HostAddress = http://localhost:5189
+
+POST {{StudentCourseAPIProject_HostAddress}}/student
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com"
+}
+
+###
+
+POST {{StudentCourseAPIProject_HostAddress}}/courses
+Content-Type: application/json
+
+{
+  "courseName": "ASP.NET Core",
+  "duration": 30
+}
+
+###
+
+POST {{StudentCourseAPIProject_HostAddress}}/enroll
+Content-Type: application/json
+
+{
+  "studentId": 1,
+  "courseId": 1
+}
+
+###
+
+GET {{StudentCourseAPIProject_HostAddress}}/students/1/courses
+Accept: application/json
+
+###
+
+GET {{StudentCourseAPIProject_HostAddress}}/courses/1/students
+Accept: application/json
+
+###
